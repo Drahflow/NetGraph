@@ -1,0 +1,4 @@
+A trivial display of network acivity.
+
+Usage:
+  tcpdump -ni <yourinterface> | ./netgraph
